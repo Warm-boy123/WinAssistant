@@ -1,5 +1,5 @@
-import tkinter
-from tkinter import messagebox, Frame, Button
+import learnTkinter
+from learnTkinter import messagebox, Frame, Button
 
 
 # 定义类继承于画纸对象，然后把画纸放到画板上
